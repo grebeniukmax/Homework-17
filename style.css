@@ -1,0 +1,15 @@
+.imgone {
+    background: #2F303A66;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+.img {
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 80px;
+    display: flex;
+}
+.section {
+    display: flex;
+    flex-wrap: wrap;
+}
